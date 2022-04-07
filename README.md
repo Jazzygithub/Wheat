@@ -1,1 +1,1 @@
-# Wheat
+The dataset selected for this project is the wheat-seedsucci dataset.  This dataset was sourced from : https://www.kaggle.com/jmcaro/wheat-seedsuci.   The data set contains 7 variables.  Variable Kernel Groove Length is the independent variable which the machine learning will predict on after training.  There are 3 outputs for the wheat kernels that are expected to be predicted accurately: Kama, Rosa and Canadian. 
